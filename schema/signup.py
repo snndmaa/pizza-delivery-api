@@ -20,4 +20,4 @@ class SignUpModel(BaseModel):
                 "is_staff": False,
                 "is_active": True,
             }
-        }
+        };
